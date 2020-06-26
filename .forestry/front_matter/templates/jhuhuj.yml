@@ -8,3 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/asdasda.md
+- content/posts/om-herdy-emang-paling-paling.md
